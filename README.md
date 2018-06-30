@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the portfolio of Samuel Dowling
 
-You can use the [editor on GitHub](https://github.com/samuel-emrys/samuel-emrys.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site is a front-end for my GitHub profile, and serves to showcase the projects I've been working on. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Status
+
+Currently, this page uses a default GitHub theme. In the future, this will be replaced by a website that I create. Practically, this means a transition from using the README.md markdown file to create content, to an index.html file for content. This may or may not make use of Jekyll Themes.
 
 ### Markdown
 
